@@ -13,13 +13,18 @@ class MyApp extends StatelessWidget {
     return Container(
       color: Colors.teal,
 
+      child:Column(
+mainAxisAlignment: MainAxisAlignment.center,
+crossAxisAlignment: CrossAxisAlignment.center,
+        children: [
+          Container(
+            height: 100.0,
+            width: 100.0,
+            color: Colors.yellow,
 
-        /*child: Row(
-            children: const [
-          SizedBox(
-            width: 100, height: 100),
-            ],
-        ),*/
+          )
+        ],
+      ),
     );
 
 
