@@ -1,4 +1,4 @@
-import 'package:entregas/pantallas/act1.dart';
+import 'package:entregas/pantallas/actividadN0 a N1.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
