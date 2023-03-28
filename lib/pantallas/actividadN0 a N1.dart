@@ -38,7 +38,7 @@ Column(
     ),
 
     Container(
-      margin: EdgeInsets.fromLTRB(237, 10, 0, 10),
+      margin: EdgeInsets.fromLTRB(205, 10, 0, 10),
       color: Colors.blue,
       width: 100.0,
     ),
